@@ -1,5 +1,24 @@
 {
+  "name": "TeamProfileGen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHWOOD/ProfileGenerator-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LHWOOD/ProfileGenerator-OOP/issues"
+  },
+  "homepage": "https://github.com/LHWOOD/ProfileGenerator-OOP#readme",
   "dependencies": {
-    "jest": "^29.3.1"
+    "inquirer": "^8.2.5",
+    "jest": "^26.6.3"
   }
 }
